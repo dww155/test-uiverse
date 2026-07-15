@@ -15,6 +15,10 @@ const Header = () => {
             name: "Astronaut",
             path: "/loader_astronaut",
         },
+        {
+            name: "Sand timer",
+            path: "/sand_timer",
+        },
     ];
 
     return (
